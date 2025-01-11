@@ -7,7 +7,6 @@ an aspiring Software Developer
 An aspiring software developer with a strong passion for technology and problem-solving. Eager to learn, adapt, and grow in the field, while contributing to innovative projects and building practical skills.
 
 * 🌍  I'm based in Binangonan, Rizal, Philippines
-* 🖥️  See my portfolio at [Github-Bugoy14](http://github.com/Bugoy14)
 * ✉️  You can contact me at [azarcon.carlangelo@gmail.com](mailto:azarcon.carlangelo@gmail.com)
 * 🧠  I'm learning Python APIs
 * 🤝  I'm open to collaborating on Machine Learning, Data Science, Microcontrollers, and IoTs
