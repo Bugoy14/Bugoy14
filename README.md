@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carl Angelo Azarcon
 ===========================================================================================================================================
 
-an aspiring Software Developer
+aspiring Software Developer
 ------------------------------
 
 An aspiring software developer with a strong passion for technology and problem-solving. Eager to learn, adapt, and grow in the field, while contributing to innovative projects and building practical skills.
