@@ -8,7 +8,7 @@ An aspiring software developer with a strong passion for technology and problem-
 
 * 🌍  I'm based in Binangonan, Rizal, Philippines
 * ✉️  You can contact me at [azarcon.carlangelo@gmail.com](mailto:azarcon.carlangelo@gmail.com)
-* 🧠  I'm learning Python APIs
+* 🧠  I'm currently learning Python APIs
 * 🤝  I'm open to collaborating on Machine Learning, Data Science, Microcontrollers, and IoTs
 * ⚡  Also an IT Support for my family 🤣
 
